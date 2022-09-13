@@ -3,12 +3,16 @@
       "name": "Emoji Matching",
       "live": "",
       "git": "https://joeycalt.github.io/Matching-project/",
-      "image": "https://user-images.githubusercontent.com/102116778/184214976-609c852c-58c4-4f4f-9a6a-fc4a043e52f2.png"
+      "image": ["https://user-images.githubusercontent.com/102116778/184214357-7875392a-5a75-4a84-8417-28564b0fd798.png",
+      "https://user-images.githubusercontent.com/102116778/184214976-609c852c-58c4-4f4f-9a6a-fc4a043e52f2.png"
+    ]
     },
     {
       "name": "InstantGramification",
       "live": "https://instant-gramifictation.herokuapp.com/home",
       "git": "https://github.com/TimRathert/Project-2",
-      "image": "https://github.com/TimRathert/Project-2/raw/main/assets/homepage2.jpg"
+      "image": ["https://github.com/TimRathert/Project-2/raw/main/assets/homepage2.jpg",
+      "https://github.com/TimRathert/Project-2/raw/main/assets/profile1.jpg"
+    ]
     }
   ]
